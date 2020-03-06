@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'You shouldnt tweet' // Required
+  title: 'You shouldnt tweet', // Required
   author: 'Ryan McCartney', // Required
   description: 'Full-stack Web Developer',
   primaryColor: '#3498db', // Required
